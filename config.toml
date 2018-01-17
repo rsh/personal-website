@@ -88,7 +88,7 @@ page = "/:slug/"
   name = "Blog"
   weight = 8
   identifier = "blog"
-  url = "/post"
+  url = "/blog"
 
   [[menu.main]]
   name = "About"
