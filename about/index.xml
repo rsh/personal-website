@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Rayhan Hasan</title>
-    <link>http://rayhan.com/about/</link>
+    <link>/about/</link>
     <description>Recent content in About on Rayhan Hasan</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://rayhan.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
